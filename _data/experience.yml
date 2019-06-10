@@ -6,4 +6,14 @@
   quote: >
    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-   Responsible for program design and implementation, across multiple frameworks. Managed all phases of application design, from coding and prototyping through automated QA testing, integration and deployment. 
+   Responsible for program design and implementation, across multiple frameworks. Managed all phases of application design, from coding and prototyping through automated QA testing, integration and deployment.
+  list: @
+    : First item in top list
+    : @
+        : Subordinate list
+    : @
+    : Above list is empty
+    :
+        A multi-line
+        bulleted list entry
+    : Sixth item in top list
