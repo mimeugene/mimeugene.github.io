@@ -22,7 +22,7 @@
 - layout: top-middle
   name: C#
   # link: https://mimeugene/mimeugene.github.io/tree/master/SampleCode/C#
-  github: mimeugene/mimeugene.github.io/tree/master/SampleCode/C#
+  github: mimeugene/mimeugene.github.io/tree/master/SampleCode/C%23
   quote: >
     C# Code examples, extracted from a non-work related mobile game I am currently developing
 - layout: top-middle
