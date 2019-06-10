@@ -21,9 +21,8 @@ linkedin_username: eugene-mim-248a0931
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate, driven programmer with a track record of commended performance with projects in various frameworks. Well versed in all phases of the software development cycle
-
-  I am most skilled in: <mark>Python</mark> and <mark>JavaScript</mark>
+  Passionate, driven programmer with a track record of commended performance with projects in various frameworks. Well versed in all phases of the software development cycle.
+  I am most skilled in: <mark>Python</mark> and <mark>Javascript</mark>
 
 # Projects Section
 # projects_title: Projects
