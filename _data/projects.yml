@@ -10,7 +10,7 @@
 - layout: top-middle
   name: JavaScript
   # link: https://mimeugene/mimeugene.github.io/tree/master/SampleCode/JavaScript/
-  github: mimeugene/mimeugene.github.io/tree/master/SampleCode/JavaScript
+  github: mimeugene/mimeugene.github.io/tree/master/SampleCode/Javascript
   quote: >
     Javascript examples, including games and Automated QA suites developed for Innovations for Learning.
 - layout: top-middle
