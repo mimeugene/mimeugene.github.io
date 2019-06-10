@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Python
-  description: Click GitHub icon to access
+  # description: Click GitHub icon to access
   # link: https://github.com/mimeugene/mimeugene.github.io/tree/master/SampleCode/Python
   github: mimeugene/mimeugene.github.io/tree/master/SampleCode/Python
   quote: >
