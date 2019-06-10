@@ -1,8 +1,32 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Python code examples
+  link: https://github.com/mimeugene/SampleCode/Python
+  github: mimeugene/SampleCode/Python
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Collection of job-related and hobbyist Python programs. ReadMe within link describes the projects in detail.
+  # description: | # this will include new lines to allow paragraphs
+  #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  name: JavasScript code examples
+  link: https://github.com/mimeugene/SampleCode/JavaScript
+  github: mimeugene/SampleCode/JavaScript
+  quote: >
+    Javascript examples, including games and Automated QA suites developed for Innovations for Learning.
+
+  name: Ruby / Rails code examples
+  link: https://github.com/mimeugene/SampleCode/Ruby:Rails:Rspec
+  github: mimeugene/SampleCode/Ruby:Rails:Rspec
+  quote: >
+    Ruby Automated QA example
+
+  name: C# code examples
+  link: https://github.com/mimeugene/SampleCode/C#
+  github: mimeugene/SampleCode/C#
+  quote: >
+    C# Code examples, extracted from a non-work related mobile game I am currently developing
+
+  name: Java code example
+  link: https://github.com/mimeugene/SampleCode/Java
+  github: mimeugene/SampleCode/Java
+  quote: >
+    Non work related finance Java example, utilizing interactive brokers API
