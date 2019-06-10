@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark> and <mark>Javascript</mark>
 
 # Projects Section
-# projects_title: Sample Code
+projects_title: Sample Code
 
 # Experience Section
 experience_title: Experience
