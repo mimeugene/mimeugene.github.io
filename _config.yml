@@ -21,7 +21,7 @@ linkedin_username: eugene-mim-248a0931
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate, driven programmer with a track record of commended performance with projects in various frameworks. Well versed in all phases of the software development cycle with emphasis using the Agile Scrum methodology. Proven success in engineering and developing automated Python applications, front-end JavaScript applications and automated QA test suites in multiple languages.  
+  Passionate, driven programmer with a track record of commended performance with projects in various frameworks. Well versed in all phases of the software development cycle with emphasis using the Agile Scrum methodology. Proven success in engineering and developing automated Python applications, front-end JavaScript applications and automated QA test suites in multiple languages.
 
 
   I am most skilled in: <mark>Python</mark> and <mark>Javascript</mark>
@@ -40,7 +40,8 @@ experience_title: Experience
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in programming and IT, some of my other interests and hobbies are:
    - Game development
-   - Electronics tinkerer
+   - Electronics tinkerer / Maker
+   - Photography
    - Surfing
 
 # Footer
