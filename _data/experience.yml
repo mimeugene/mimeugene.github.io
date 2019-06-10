@@ -7,7 +7,7 @@
    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
    Responsible for program design and implementation, across multiple frameworks. Managed all phases of application design, from coding and prototyping through automated QA testing, integration and deployment.
-  mylist:
+  more_content: | # this will include new lines to allow paragraphs
     - Solely developed multiple automated testing suites from the ground up. Designed and programmed 400+ scripted automated browser and app scripts in various frameworks. Managed / mentored a team of 3 QA interns.
     - Engineered and developed Python applications to assist support team operations. Custom Python applications automated repetitive tasks and reported system diagnostics to a backend server accessible by the rest of the team.
-    - Worked with backend developers and designers to develop multiple educational based games in JavaScript. 
+    - Worked with backend developers and designers to develop multiple educational based games in JavaScript.
