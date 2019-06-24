@@ -14,7 +14,7 @@
   quote: >
     Javascript examples, including games and Automated QA suites developed for Innovations for Learning.
 - layout: top-middle
-  name: Ruby / Rails
+  name: Ruby
   # link: https://mimeugene/mimeugene.github.io/tree/master/SampleCode/Ruby:Rails:Rspec
   github: mimeugene/mimeugene.github.io/tree/master/SampleCode/Ruby:Rails:Rspec
   quote: >
